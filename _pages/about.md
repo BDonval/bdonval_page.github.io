@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Bienvue sur mon portfolio"
+title: "Présentation générale"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Présentation générale
-======
 ## Accueil et encadrement
 Ce portfolio est réalisé dans le cadre de l'obtention de mon doctorat en Sciences de l'Information et de la Communication (SIC). Mon doctorat prend place au sein de l'Université du Mans, du Centre de Recherche en Education de Nantes (CREN) et de l'école doctorale Education, Cognition, Langages, Interactions, Santé (ECLIS). Ma thèse est dirigée par Fabrice Pirolli (Professeur en SIC, Le Mans Université) et co-encadrée par Raphaëlle Crétin-Pirolli (MCF en SIC, Le Mans Université) et Laëtitia Pierrot (MCF en SIC, Le Mans Université). J'effectue mon travail de recherche sur le site de l'IUT de Laval (Mayenne), au Centre de Recherche de l'Université du Mans en Mayenne (CERIUM²).
 ## La thèse
