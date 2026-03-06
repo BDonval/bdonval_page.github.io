@@ -23,7 +23,7 @@ repository               : "BDonval/bdonval_page.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/icone.png"
+  avatar           : "images/Icone.png"
   name             : "Bastian Donval"
   pronouns         : # example: "she/her"  
   bio              : "Ce portfolio sera alimenté au fur et à mesure de l'avancement de mon doctorat"
