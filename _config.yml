@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "mon_logo.jpg"
+  avatar           : "icone.jpg"
   name             : "Bastian Donval"
   pronouns         : # example: "she/her"  
   bio              : "Ce portfolio sera alimenté au fur et à mesure de l'avancement de mon doctorat"
