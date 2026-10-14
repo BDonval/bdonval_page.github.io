@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Dynamiques et tensions autour des communs numériques dans l’enseignement secondaire : une approche par les usages et les pratiques"
 collection: publications
 category: conferences
 permalink: /publication/UNESCO-RELIA-1er-avril
