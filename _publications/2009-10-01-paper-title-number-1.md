@@ -1,7 +1,7 @@
 ---
 title: "Paper Title Number 1"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/UNESCO-RELIA-1er-avril
 excerpt: "Ce webinaire est consacré à la présentation de résultats du GTnum Forges et à la description de ma thèse auprès de la communauté de la Chaire Unesco RELIA"
 date: 2026-04-01
