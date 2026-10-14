@@ -3,10 +3,10 @@ title: "Doctorales de la SFSIC 2026"
 collection: publications
 category: conferences
 permalink: /publication/Doctorales-SFSIC-2026
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
+excerpt: "Ce poster a été présenté lors des doctorales de la SFSIC en juin 2026, au campus Condorcet d'Aubervilliers."
 date: 2026-06-10
 venue: 
-slidesurl: 'https://academicpages.github.io/files/Poster-de-recherche-SFSIC.pdf'
+slidesurl: 'files/Poster-de-recherche-SFSIC.pdf'
 citation:
 ---
 Les 8, 9, et 10 juin 2026 se sont tenues les doctorales de la Société Française des Sciences de l'Information et de la Communication, au campus Condorcet d'Aubervilliers. Cet évènement regroupant chercheurs en SIC et mettant les doctorants à l'honneur était l'occasion pour ceux en première année de thèse de présenter leur recherche sous la forme d'un poster exposé pendant les trois jours.
