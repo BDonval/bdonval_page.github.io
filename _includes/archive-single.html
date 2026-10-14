@@ -53,31 +53,31 @@
     {% endif %}
     
     {% if post.citation and post.paperurl and post.slidesurl and post.bibtexurl %}
-      <p>Citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Lien vers l'article</a> | <a href="{{ post.slidesurl }}">Lien vers le support</a> | <a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
+      <p>Citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Lien vers l'article</a> | <a href="{{ post.slidesurl }}">Lien vers le support</a> | <a href="{{ post.bibtexurl }}">Lien vers la rediffusion</a></p>
     {% elsif post.citation and post.paperurl and post.slidesurl %}
       <p>Citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Lien vers l'article</a> | <a href="{{ post.slidesurl }}">Lien vers le support</a></p>
     {% elsif post.citation and post.paperurl and post.bibtexurl %}
-      <p>Citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Lien vers l'article</a> | <a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
+      <p>Citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Lien vers l'article</a> | <a href="{{ post.bibtexurl }}">Lien vers la rediffusion</a></p>
     {% elsif post.citation and post.paperurl %}
       <p>Citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Lien vers l'article</a></p>
     {% elsif post.citation and post.slidesurl and post.bibtexurl %}
-      <p>Citation: {{ post.citation }}<br /><a href="{{ post.slidesurl }}">Lien vers le support</a> | <a href="{{ post.bibtexurl}}">Download Bibtex</a></p>
+      <p>Citation: {{ post.citation }}<br /><a href="{{ post.slidesurl }}">Lien vers le support</a> | <a href="{{ post.bibtexurl}}">Lien vers la rediffusion</a></p>
     {% elsif post.citation and post.slidesurl %}
       <p>Citation: {{ post.citation }}<br /><a href="{{ post.slidesurl }}">Lien vers le support</a></p>
     {% elsif post.citation and post.bibtexurl %}
-      <p>Citation: {{ post.citation }}<br /><a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
+      <p>Citation: {{ post.citation }}<br /><a href="{{ post.bibtexurl }}">Lien vers la rediffusion</a></p>
     {% elsif post.citation %}
       <p>Citation: {{ post.citation }}</p>
     {% elsif post.paperurl and post.bibtexurl %}
-      <p><a href="{{ post.paperurl }}">Lien vers l'article</a> | <a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
+      <p><a href="{{ post.paperurl }}">Lien vers l'article</a> | <a href="{{ post.bibtexurl }}">Lien vers la rediffusion</a></p>
     {% elsif post.paperurl %}
       <p><a href="{{ post.paperurl }}">Lien vers l'article</a></p>
     {% elsif post.slidesurl and post.bibtexurl %}
-      <p><a href="{{ post.slidesurl }}">Lien vers le support</a> | <a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
+      <p><a href="{{ post.slidesurl }}">Lien vers le support</a> | <a href="{{ post.bibtexurl }}">Lien vers la rediffusion</a></p>
     {% elsif post.slidesurl %}
       <p><a href="{{ post.slidesurl }}">Lien vers le support</a></p>
     {% elsif post.bibtexurl %}
-      <p><a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
+      <p><a href="{{ post.bibtexurl }}">Lien vers la rediffusion</a></p>
     {% endif %}
 
   </article>
