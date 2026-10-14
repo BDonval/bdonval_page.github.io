@@ -85,11 +85,11 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: 'Books'
+    title: 'Chapitres d'ouvrages'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Articles de revues'    
   conferences:
-    title: 'Conference Papers'
+    title: 'Conférences, webinaires et colloques'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
